@@ -1,7 +1,12 @@
+---
+permalink:/404/html
+---
 theme: jekyll-theme-cayman
 
 title: Test title
 description:  Test description
+
+
 
 ---
 layout:post
